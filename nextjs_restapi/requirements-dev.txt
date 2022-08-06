@@ -1,0 +1,16 @@
+asgiref==3.5.2
+backports.zoneinfo==0.2.1
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
+dj-database-url==1.0.0
+dj-static==0.0.6
+Django==3.2
+django-cors-headers==3.4.0
+django-templated-mail==1.1.1
+djangorestframework==3.11.1
+djangorestframework-simplejwt==4.6.0
+djoser==2.0.3
+PyJWT==2.0.0
+python-decouple==3.6
+pytz==2022.1
+sqlparse==0.4.2
+static3==0.7.0
